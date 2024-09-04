@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avash</h1>
-<h3 align="center">A passionate frontend developer from Kathmandu Nepal</h3>
+<h3 align="center">A passionate learner from Kathmandu Nepal</h3>
 
 - 🌱 I’m currently learning **ASP.NET, REACT typescript, css, java, C#, python**
 
