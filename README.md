@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, asp.net**
 
-- 📫 How to reach me **aavash3150@gmail.com avashlamichhane235@gmail.com**
+- 📫 How to reach me **aavash2005@gmail.com avashlamichhane235@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
